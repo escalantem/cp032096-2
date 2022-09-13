@@ -6,7 +6,7 @@ ________________________________________________
 
 ________________________________________________
 
-![Python](https://img.shields.io/static/v1?label=Python&message=3.93&color=blue&style=plastic&logo=python)
+![Python](https://img.shields.io/static/v1?label=Python&message=3.93&color=yellow&style=?style=for-the-badge&logo=python)
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
